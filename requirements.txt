@@ -1,0 +1,6 @@
+opencv-python
+pillow
+image_slicer
+numpy
+pyautogui
+py-sudoku
